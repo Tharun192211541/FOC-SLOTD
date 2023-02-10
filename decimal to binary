@@ -1,0 +1,4 @@
+#!/bin/bash
+echo " enter a number "
+read a
+echo ${D2B[a]}
