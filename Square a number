@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Enter any number"
+read n
+echo "Number is $n"
+echo "Square of Number is "
+echo "$n * $n" | bc
